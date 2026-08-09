@@ -1,0 +1,18 @@
+h1 {
+            text-align:center;
+        }
+        .przycisk {
+            width: 20px;
+            height: 40px;
+            border: black solid 0.5px;
+            cursor: pointer;
+        }
+        #red {
+            background-color: red;
+        }
+        #green {
+            background-color: green;
+        }
+        #blue {
+            background-color: blue;
+        }
